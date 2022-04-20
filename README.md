@@ -58,3 +58,6 @@ Challenge for those more comfortable: If you’re feeling more comfortable, try 
 Hints
 
 By default, when substituting a value in a Django template, Django HTML-escapes the value to avoid outputting unintended HTML. If you want to allow for an HTML string to be outputted, you can do so with the safe filter (as by adding |safe after the variable name you’re substituting).
+
+# References
+https://github.com/Python-Markdown/markdown
